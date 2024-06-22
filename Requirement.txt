@@ -1,0 +1,7 @@
+required libraries 
+CV2
+numpy 
+pyzbar
+sys
+base64
+MyQR
